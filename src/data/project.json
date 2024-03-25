@@ -1,0 +1,29 @@
+[
+    {
+        "title": "Modern Dashboard",
+        "imageSrc":"modern.png",
+        "description": "Website with Syncfusion components ",
+        "skills": ["React","Tailwind Css","Syncfusion"],
+        "Demo": "https://endearing-sopapillas-dd375f.netlify.app/",
+        "source": "https://github.com/Kuncode2/E-Commerce"
+    },
+    {
+        "title": "BLOG Web-Application",
+        "imageSrc":"blog.png",
+        "description": "Developed a visually  web application ",
+        "Demo": "https://statuesque-tapioca-1d3443.netlify.app/",
+        "skills": ["Next.js","React","Html and Css","Mongo DB"],
+        "source": "https://github.com/Kuncode2/blog-web-app"
+    },
+    {
+    
+        "title": "Weather App",
+        "imageSrc":"weather.png",
+        "description": "Daily Weather Forecast: Provides real-time weather updates planning ",
+        "skills": ["HTML","CSS","Javascript"],
+        "Demo": "https://statuesque-tapioca-1d3443.netlify.app/",
+        "source": "https://github.com/Kuncode2/Weather-app"
+    
+    }
+
+]
